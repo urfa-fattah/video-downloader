@@ -1,0 +1,11 @@
+{
+  "output_dir": "F:\\Videos\\video-downloader2\\video-downloader\\downloads",
+  "max_parallel": 3,
+  "speed_limit_kbps": 0,
+  "proxy": "",
+  "cookies_browser": "",
+  "cookies_file": "F:\\Videos\\video-downloader2\\video-downloader\\data\\cookies.txt",
+  "embed_metadata": true,
+  "embed_thumbnail": true,
+  "skip_archive": false
+}
